@@ -1,3 +1,3 @@
 #GitExpertApp
 
-este es mi repositorio de react
+este es mi repositorio del proyecto GitExpertApp de react
